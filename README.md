@@ -68,3 +68,7 @@ Third-Party Application:
 - Cloudinary
 - Strip
 
+
+Backend Code:
+
+https://github.com/anushka-dhameliya/eatzip-app-backend.git
